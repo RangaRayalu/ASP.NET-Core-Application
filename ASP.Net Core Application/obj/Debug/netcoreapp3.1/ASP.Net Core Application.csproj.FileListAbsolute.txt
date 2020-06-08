@@ -1,0 +1,37 @@
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\bin\Debug\netcoreapp3.1\ASP.Net Core Application.exe
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\bin\Debug\netcoreapp3.1\ASP.Net Core Application.deps.json
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\bin\Debug\netcoreapp3.1\ASP.Net Core Application.runtimeconfig.json
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\bin\Debug\netcoreapp3.1\ASP.Net Core Application.runtimeconfig.dev.json
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\bin\Debug\netcoreapp3.1\ASP.Net Core Application.dll
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\bin\Debug\netcoreapp3.1\ASP.Net Core Application.pdb
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\bin\Debug\netcoreapp3.1\ASP.Net Core Application.Views.dll
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\bin\Debug\netcoreapp3.1\ASP.Net Core Application.Views.pdb
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.csprojAssemblyReference.cache
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.csproj.CoreCompileInputs.cache
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.RazorAssemblyInfo.cache
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.RazorAssemblyInfo.cs
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.AssemblyInfoInputs.cache
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.AssemblyInfo.cs
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.TagHelpers.input.cache
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.TagHelpers.output.cache
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.RazorCoreGenerate.cache
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.RazorTargetAssemblyInfo.cache
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.RazorTargetAssemblyInfo.cs
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.Views.pdb
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\staticwebassets\ASP.Net Core Application.StaticWebAssets.Manifest.cache
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\staticwebassets\ASP.Net Core Application.StaticWebAssets.xml
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.dll
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.pdb
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.genruntimeconfig.cache
+C:\Users\rayal\source\repos\ASP.Net Core Application\ASP.Net Core Application\obj\Debug\netcoreapp3.1\ASP.Net Core Application.csproj.CopyComplete
